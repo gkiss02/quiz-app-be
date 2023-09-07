@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kPjsxOl7XKM0Tf1zP8dj9pbtOrIk5UPckVz+TRlpTTE=",
+  "Source": "quiz-app-be",
+  "BasePath": "_content/quiz-app-be",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
